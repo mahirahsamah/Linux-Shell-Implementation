@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://mahirahsamah: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@github.com/CSCE-313-Tyagi-Fall-2021/pa2-implementing-a-linux-shell-mahirahsamah.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
